@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate Android Developer from Kenya.</h3>
 
