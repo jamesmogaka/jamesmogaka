@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/jamesmogaka/jamesmogaka/blob/main/dino.gif"/>
+</p>
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate Android Developer from Kenya.</h3>
 
