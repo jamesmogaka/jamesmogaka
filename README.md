@@ -1,3 +1,4 @@
+![counter](https://eniqgwfockv46jz.m.pipedream.net)
 <p align="center">
 <img src="https://github.com/jamesmogaka/jamesmogaka/blob/main/dino.gif"/>
 </p>
