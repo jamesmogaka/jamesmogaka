@@ -3,17 +3,15 @@
 <img src="https://github.com/jamesmogaka/jamesmogaka/blob/main/dino.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate Android Developer from Kenya.</h3>
+<h3 align="center">A Ful stack developer from Kenya.</h3>
 
-- 🌱 I’m currently learning **Node, Machine learning**
+- 🌱 I’m currently learning **Node and Rust**
 
 - 💬 Ask me about **Android...**
 
 - 📫 How to reach me **jamesoyondi23@gmail.com**
 
-- ⚡ Fun fact **“as a man thinketh, so is he”**
-
-- 🤔 I’m looking for help with **Node and Machine Learning**
+- 🤔 I’m looking for help with **Node **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
