@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
@@ -70,7 +70,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Dev+%7C+Loves+Rust+%26+Elixir;Node.js+Wizard+in+the+Making;Learning+Never+Stops!)](https://t.me/mogaka_23)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Dev+%7C+Loves+Rust;Node.js+Wizard+in+the+Making;Learning+Never+Stops!)](https://t.me/mogaka_23)
 
 <!--
 **jamesmogaka/jamesmogaka** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
